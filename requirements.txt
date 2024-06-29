@@ -1,5 +1,4 @@
 telebot
-zipfile
 os
 shutil
 subprocess
